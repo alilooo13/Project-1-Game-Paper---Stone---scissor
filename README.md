@@ -9,10 +9,6 @@ Random Number Generation
 
 Used rand() with srand(time(NULL)) to generate unpredictable computer choices.
 
-User Input Handling & Validation
-
-Read player input safely and handled invalid choices to prevent crashes or logical errors.
-
 Enums for Clean Game Logic
 
 Used enum types to represent game choices (Rock, Paper, Scissors) and round winners.
